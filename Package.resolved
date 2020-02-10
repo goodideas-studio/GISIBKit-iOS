@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GISHelperKit",
+        "repositoryURL": "https://github.com/goodideas-studio/iOS-HelperKit",
+        "state": {
+          "branch": null,
+          "revision": "a54c36112a6f564fb99f4804db9cf8f9ec5f93c6",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "SwiftCSV",
+        "repositoryURL": "https://github.com/swiftcsv/SwiftCSV",
+        "state": {
+          "branch": null,
+          "revision": "b581e5c364f5ea0f48d3073321b373afcf078bf8",
+          "version": "0.5.5"
+        }
+      },
+      {
+        "package": "Weak",
+        "repositoryURL": "https://github.com/ytyubox/Weak",
+        "state": {
+          "branch": null,
+          "revision": "2c7fe37aafe616942001c4d102b37ddf0cbf6a4a",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
